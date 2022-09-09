@@ -1,2 +1,3 @@
 # dunngen-town
-a fanse game
+a 2d story game and google dino game
+
